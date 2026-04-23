@@ -29,27 +29,45 @@
 </p>
 
 ## Featured Projects
-### AI-Powered Interview Preparation & Resume Optimization Platform
-A full-stack GenAI app that analyzes resumes and job descriptions, detects skill gaps, generates interview questions, and creates ATS-friendly resumes.
-- Tech: React, Node.js, Express.js, MongoDB, Gemini API, JWT, Puppeteer, Zod
 
-### Chest X-Ray COVID Detection System
-A CNN-based ML project for COVID classification from chest X-ray images.
-- Tech: Python, TensorFlow, Keras, NumPy, Matplotlib
+<table>
+<tr>
+<td width="50%">
 
+### AI Interview Prep & Resume Optimizer
+Full-stack GenAI platform for resume analysis and interview preparation.
+
+- Resume–JD matching and skill gap detection  
+- AI-generated interview questions  
+- ATS-friendly resume generation  
+
+**Stack:** React · Node.js · MongoDB · Gemini API · JWT  
+
+</td>
+
+<td width="50%">
+
+### Chest X-Ray COVID Detection
+Deep learning system for COVID classification using X-ray images.
+
+- CNN-based image classification  
+- Trained on labeled medical datasets  
+- Output visualization for analysis  
+
+**Stack:** Python · TensorFlow · Keras  
+
+</td>
+</tr>
+</table>
 ## Leadership & Experience
 - Member, Google Developer Student Clubs (Cloud Domain), NIT Silchar
 - NSS Department Representative, Tezpur University
 - Managed outreach activities and worked with student volunteers
 
-## Achievements
-- Silver Badge in Java on HackerRank
-- 2nd Position in Youth Parliament
-- 3rd Position in Quiz Competition at NIT Silchar
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasenjeet-Tiwari&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasenjeet-Tiwari&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
