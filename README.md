@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasenjeet Tiwari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student+at+NIT+Silchar;Full-Stack+Web+Developer;AI+%26+Problem+Solving+Enthusiast;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student+at+NIT+Silchar;Full-Stack+Web+Developer;Problem+Solving+Enthusiast;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
